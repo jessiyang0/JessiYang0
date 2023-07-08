@@ -12,11 +12,11 @@
   </td>
   <td>
 
-💁‍♀️  Community Founder and generalist at @womendotcodebe
+💁‍♀️  Community Founder & Manager [@womendotcodebe](https://github.com/womendotcodebe)
 
-👩‍🏫  Career Coach at @BeCode Ghent
+👩‍🏫  Career Coach [@BeCode](https://github.com/becodeorg) Ghent
 
-👩‍🏫  Event Organiser at @fronteersbe
+👩‍🏫  Event Organiser [@fronteersbe](https://github.com/fronteersbe) meetups
 
 👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites 🖤 @11ty) 
 
