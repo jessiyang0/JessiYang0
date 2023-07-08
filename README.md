@@ -6,7 +6,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="400" alt="hello!" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+    <img width="300" alt="hello!" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
   </td>
   <td>
   </td>
