@@ -18,7 +18,7 @@
 
 👩‍🏫  Event Organiser [@fronteersbe](https://github.com/fronteersbe) meetups
 
-👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites 🖤 @11ty) 
+👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites, sustainable design & development) 
 
 🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
