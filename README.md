@@ -1,11 +1,9 @@
 <img width="1280" alt="hello!" src="cover-gh.png">
 <br>
-<br>
-<br>
 
 
 ## **Short intro**
-<table>
+<table style="border:none">
 <tr>
   <td style="vertical-align: top">
     <img width="400" alt="hello!" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
@@ -14,19 +12,19 @@
   </td>
   <td>
 
-    💁‍♀️  Community Founder and generalist at @womendotcodebe
+💁‍♀️  Community Founder and generalist at @womendotcodebe
 
-    👩‍🏫  Career Coach at @BeCode Ghent
+👩‍🏫  Career Coach at @BeCode Ghent
 
-    👩‍🏫  Event Organiser at @fronteersbe
+👩‍🏫  Event Organiser at @fronteersbe
 
-    👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites 🖤 @11ty) 
+👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites 🖤 @11ty) 
 
-    🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
+🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
-    😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
+😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
 
-    🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech 
+🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech 
   </td>
 </tr>
 </table>
