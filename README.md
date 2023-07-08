@@ -1,53 +1,72 @@
-![women dot code be](https://mangamaui.s3.amazonaws.com/cover.png)
+<img width="1280" alt="hello!" src="cover-gh.png">
+<br>
+<br>
+<br>
 
 
-Hi there 👋! I am Claudia, community founder at [women.code(be)](http://bit.ly/wdcb-website) 🧡, a community for womxn who code in Belgium. With this community we hope to make a positive impact on the Belgian tech scene and culture as well as creating a safe space for fellow womxn.
+## **Short intro**
+<table>
+<tr>
+  <td style="vertical-align: top">
+    <img width="400" alt="hello!" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+  </td>
+  <td>
+  </td>
+  <td>
 
-At heart, I'm definitely a (tech) generalist; The last decade I gained experience working as a front-end developer, technical product manager and designer.
-Nowadays, I love to spend most of my time at women.code(be), something I am truly grateful for. 💖 Because, besides being able to help others, the community gives me the freedom to switch between so many different roles and tasks. (What more can be satisfying for a generalist, right? 😉)
+    💁‍♀️  Community Founder and generalist at @womendotcodebe
 
+    👩‍🏫  Career Coach at @BeCode Ghent
 
+    👩‍🏫  Event Organiser at @fronteersbe
 
+    👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites 🖤 @11ty) 
 
-## To give you an idea of what I do at women.code(be):
+    🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
-- Organising events
-- Interviewing members for our monthly spotlight interviews
-- Composing the monthly newsletter
-- Maintaining our website
-- Day-to-day operations
-  ...
+    😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
 
-## In short:
+    🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech 
+  </td>
+</tr>
+</table>
 
-<p>
-  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+## **Long intro**
+
+Hi there 👋! I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive.
+The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code, who are living in Belgium**. 
+
+Thanks to my prior career experiences in tech I have been doing a lot of different things that allowed me to grow women.code(be) into the community that it is today. I did everything from web development (mostly specialised in frontend), design (UX / UI) to product management.
+
+More recently, I also started as <b>career coach at <a href="https://becode.org" target="_blank">BeCode </a></b> (A Belgian coding bootcamp), where I play an important part in supporting and guiding bootcamp students, so they can start their career in tech with confidence. 
+
+Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
+
+<br><br>
+
+## 🛠️ **Building projects with:**
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://11ty.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/124e337fb005b0e70eb3758b431b051eaf5419b3a709062fbcce6d661a6ea116/68747470733a2f2f7777772e313174792e6465762f696d672f6c6f676f2d6769746875622e737667" width="36" height="36" alt="Eleventy" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 </p>
+<br>
+
+
+## **My GitHub Stats**
+
+<a href="http://www.github.com/mangamaui"><img src="https://github-readme-stats.vercel.app/api?username=mangamaui&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mangamaui's GitHub stats" /></a>
 
 
 
+## **Socials**
 
-💁‍♀️  Community Founder and generalist at [women.code(be)](https://bit.ly/wdcb-website)
-
-👩‍💻  UX Designer & (hobbyist) Front-end Developer, former Product Manager
-
-👩‍🏫  Event Co-organiser at [Fronteers](https://fronteers.nl) (Belgium)
-
-🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
-
-😻  Loving cats &🍹 Tiki bars
-
-
-### 🖋 Some of the stuff I blog about:
-
-<a href="https://bit.ly/remote-flexible-work">
-  <img src="https://mangamaui.s3.amazonaws.com/article-cardA.png" alt="How flexible and remote work improved my life - A detailed view on a personal experience with remote and flexible work by Claudia" width="400" />
-</a>
-<a href="https://bit.ly/local-community-rising">
-  <img src="https://mangamaui.s3.amazonaws.com/article-cardB.png" alt="A local community on the rise - Why we started our own local community for women who code by Claudia" width="400" />
-</a>
-
-### 💬 Where to find me:
-
-- 🦜  Twitter: https://twitter.com/mangamaui
-- 🏀  Dribbble: https://mangamaui.dribbble.com/
+- 🦜 [Twitter](https://twitter.com/claudia_rndrs)
+- 🏀 [Dribbble](https://dribbble.com/)
