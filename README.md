@@ -60,9 +60,8 @@ Occassionally, you might also run into me at a <a href="https://fronteersbe.gith
 
 ## **My GitHub Stats**
 
-<a href="http://www.github.com/mangamaui"><img src="https://github-readme-stats.vercel.app/api?username=mangamaui&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mangamaui's GitHub stats" /></a>
-
-
+![mangamaui's Stats](https://github-readme-stats.vercel.app/api?username=mangamaui&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![mangamaui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mangamaui&theme=jolly&hide_border=true)
 
 ## **Socials**
 
