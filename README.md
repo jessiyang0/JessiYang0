@@ -12,11 +12,11 @@
   </td>
   <td>
 
-💁‍♀️  Community Founder & Manager [@womendotcodebe](https://github.com/womendotcodebe)
+👩‍⚖️  Chairwoman [@fronteers](https://github.com/fronteers) && event organiser [@fronteersbe](https://github.com/fronteersbe)
 
-👩‍🏫  Career Coach [@BeCode](https://github.com/becodeorg) Ghent
+💁‍♀️  Community founder & manager [@womendotcodebe](https://github.com/womendotcodebe)
 
-👩‍🏫  Event Organiser [@fronteersbe](https://github.com/fronteersbe) meetups
+👩‍🏫  Community lead [@BeCode](https://github.com/becodeorg)
 
 👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites, sustainable design & development) 
 
@@ -24,7 +24,7 @@
 
 😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
 
-🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech 
+🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in tech 
   </td>
 </tr>
 </table>
@@ -35,11 +35,12 @@ Hi there 👋! I am Claudia, a hearing impaired (🦻) community builder and fou
 The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code, who are living in Belgium**. 
 
 Thanks to my prior career experiences in tech I have been doing a lot of different things that allowed me to grow women.code(be) into the community that it is today. I did everything from web development (mostly specialised in frontend), design (UX / UI) to product management.
-
-More recently, I also started as <b>career coach at <a href="https://becode.org" target="_blank">BeCode </a></b> (A Belgian coding bootcamp), where I play an important part in supporting and guiding bootcamp students, so they can start their career in tech with confidence. 
+ 
+Since 2023, I am also the **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the function of front-end developers.
 
 Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
 
+During the (work)day however, it is more likely that you'll find me representing BeCode - a Belgian coding school with 4 different campuses across Belgium - as community lead. Originally, I started at BeCode as career coach (often also called talent coach), with as main focus supporting and guiding bootcamp students, so they could start their career in tech with confidence.
 <br><br>
 
 ## 🛠️ **Building projects with:**
@@ -47,7 +48,6 @@ Occassionally, you might also run into me at a <a href="https://fronteersbe.gith
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://11ty.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/124e337fb005b0e70eb3758b431b051eaf5419b3a709062fbcce6d661a6ea116/68747470733a2f2f7777772e313174792e6465762f696d672f6c6f676f2d6769746875622e737667" width="36" height="36" alt="Eleventy" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
