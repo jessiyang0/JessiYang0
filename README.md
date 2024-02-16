@@ -1,5 +1,3 @@
-<img width="1280" alt="hello!" src="cover-gh.png">
-<br>
 
 
 ## **Short intro**
