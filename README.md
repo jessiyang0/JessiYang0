@@ -12,36 +12,20 @@
   </td>
   <td>
 
-👩‍⚖️  Chairwoman [@fronteers](https://github.com/fronteers) && event organiser [@fronteersbe](https://github.com/fronteersbe)
+👩‍⚖️  Research Assistant, Machine Learning, Deep Learning Lab, NCUT
 
-💁‍♀️  Community founder & manager [@womendotcodebe](https://github.com/womendotcodebe)
+💁‍♀️  TSMC RD Engineer 
 
-👩‍🏫  Community lead [@BeCode](https://github.com/becodeorg)
 
-👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites, sustainable design & development) 
-
-🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
-
-😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
-
-🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in tech 
   </td>
 </tr>
 </table>
 
 ## **Long intro**
 
-Hi there 👋! I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive.
-The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code, who are living in Belgium**. 
+🪽 I am deeply interested in Artificial Intelligence, Deep Learning, Machine Learning, Time-Series Processing, Computer Vision, and Natural Language Processing, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
 
-Thanks to my prior career experiences in tech I have been doing a lot of different things that allowed me to grow women.code(be) into the community that it is today. I did everything from web development (mostly specialised in frontend), design (UX / UI) to product management.
- 
-Since 2023, I am also the **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the function of front-end developers.
-
-Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
-
-During the (work)day however, it is more likely that you'll find me representing BeCode - a Belgian coding school with 4 different campuses across Belgium - as community lead. Originally, I started at BeCode as career coach (often also called talent coach), with as main focus supporting and guiding bootcamp students, so they could start their career in tech with confidence.
-<br><br>
+👉🏼 ***Feel free to follow me on [LinkedIn]([http://linkedin.aman.ai](https://www.linkedin.com/in/jiesi-yang-9218411aa/)) to stay updated with my latest AI learning resources.***
 
 ## 🛠️ **Building projects with:**
 <p align="left">
