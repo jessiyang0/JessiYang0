@@ -36,4 +36,4 @@
 
 During my internship and employment at TSMC, I learned about the AI technologies and methods that can be applied in the industry, such as machine failure prediction and optimization of machine parameters
 
-👉🏼 ***Feel free to follow me on [LinkedIn]([http://linkedin.aman.ai](https://www.linkedin.com/in/jiesi-yang-9218411aa/)) to stay updated with my latest AI learning resources.***
+👉🏼 ***Feel free to follow me on [LinkedIn](http://linkedin.aman.ai](https://www.linkedin.com/in/jiesi-yang-9218411aa/) to stay updated with my latest AI learning resources.***
