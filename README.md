@@ -26,7 +26,7 @@
 
 ## **Long intro**
 
-🪽 I am deeply interested in Artificial Intelligence, Deep Learning, Machine Learning, Time-Series Processing, Computer Vision, and Natural Language Processing, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
+🪽 I am deeply interested in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **Time-Series Processing**, **Computer Vision**, and **Natural Language Processing**, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
 
 📗During my master's program, I authored two papers on AI applications in the industry and participated in industry-academic collaborations, assisting a power company with data visualization and distribution decisions.
 
