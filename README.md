@@ -1,7 +1,3 @@
-<img width="1280" alt="hello!" src="cover-gh.png">
-<br>
-
-
 ## **Short intro**
 <table style="border:none">
 <tr>
@@ -25,7 +21,7 @@
 
 🪽 I am deeply interested in Artificial Intelligence, Deep Learning, Machine Learning, Time-Series Processing, Computer Vision, and Natural Language Processing, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
 
-👉🏼 ***Feel free to follow me on [LinkedIn]([http://linkedin.aman.ai](https://www.linkedin.com/in/jiesi-yang-9218411aa/)) to stay updated with my latest AI learning resources.***
+👉🏼 ***Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/jiesi-yang-9218411aa/) to stay updated with my latest AI learning resources.***
 
 ## 🛠️ **Building projects with:**
 <p align="left">
