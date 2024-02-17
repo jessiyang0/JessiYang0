@@ -12,9 +12,9 @@
     
 👩‍⚖️  Time-Series Processing, Forecasting, Analysis
 
-👩‍⚖️  Data Visualization, Analysis, Cleaning
+👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development
 
-👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development 
+👩‍⚖️  Data Visualization, Analysis, Cleaning 
 
 👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NCUT; TSMC RD Engineer 
 
