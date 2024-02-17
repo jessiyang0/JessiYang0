@@ -14,7 +14,7 @@
 
 👩‍⚖️  Data Visualization, Analysis, Cleaning
 
-👩‍⚖️  Passionate about MLOps, AWS, Docker, Model research and development 
+👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development 
 
 👩‍⚖️  Research Assistant, Machine Learning, Deep Learning Lab, NCUT; TSMC RD Engineer 
 
