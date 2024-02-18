@@ -24,6 +24,9 @@
 </tr>
 </table>
 
+## **Project**
+* Time Series Forecasting [Attention-based method], [Multi-Task method]
+
 ## **Long intro**
 
 🪽 I am deeply interested in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **Time-Series Processing**, **Computer Vision**, and **Natural Language Processing**, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
