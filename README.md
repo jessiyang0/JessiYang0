@@ -25,7 +25,9 @@
 </table>
 
 ## **Project**
-* Time Series Forecasting [Attention-based method], [Multi-Task method]
+* Time Series Forecasting:
+  *[Attention-based method](https://github.com/baby90522/Spatial-Temporal-Attention-Model), 
+  *[Multi-Task method](https://github.com/baby90522/Multi-Task-Learning-Model)
 
 ## **Long intro**
 
