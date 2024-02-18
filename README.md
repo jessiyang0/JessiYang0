@@ -14,7 +14,7 @@
 
 👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development
 
-👩‍⚖️  Data Visualization, Analysis, Cleaning 
+👩‍⚖️  Data Visualization, Analysis, Cleaning, Artificial Intelligence, Deep Learning, Machine Learning, Time-Series Processing, Computer Vision, and Natural Language Processing
 
 👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NCUT; TSMC RD Engineer 
 
@@ -30,8 +30,6 @@
   *[Multi-Task method](https://github.com/baby90522/Multi-Task-Learning-Model)
 
 ## **Long intro**
-
-🪽 I am deeply interested in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **Time-Series Processing**, **Computer Vision**, and **Natural Language Processing**, with prior research experience in Time-Series Prediction. My mission is to develop AI solutions to assist power companies in making electricity supply decisions.
 
 📔 During my internship and employment at TSMC, I learned about the AI technologies and methods that can be applied in the industry, such as machine failure prediction and optimization of machine parameters
 
