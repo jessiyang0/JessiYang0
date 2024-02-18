@@ -14,7 +14,8 @@
 
 👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development
 
-👩‍⚖️  Data Visualization, Analysis, Cleaning, Artificial Intelligence, Deep Learning, Machine Learning, Time-Series Processing, Computer Vision, and Natural Language Processing
+👩‍⚖️  Data Visualization, Analysis, Cleaning, Artificial Intelligence, Deep Learning, Machine Learning, 
+Time-Series Processing, Computer Vision, and Natural Language Processing
 
 👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NCUT; TSMC RD Engineer 
 
