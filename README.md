@@ -32,7 +32,7 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
   *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
 
 * Data Analysis:
-  * [[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
+  *[[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
 
 ## **Long intro**
 
