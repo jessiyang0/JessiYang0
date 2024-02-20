@@ -31,6 +31,9 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
   *[[Attention-based method]](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md),
   *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
 
+* Data Analysis:
+  * [[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
+
 ## **Long intro**
 
 📔 During my internship and employment at TSMC, I learned about the AI technologies and methods that can be applied in the industry, such as machine failure prediction and optimization of machine parameters
