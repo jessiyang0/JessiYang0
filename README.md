@@ -27,9 +27,9 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
 
 ## **Project**
 * Time Series Forecasting:
-  * [[Attention-based method_1]](https://github.com/baby90522/Spatial-Temporal-Attention-Model),
-  * [[Attention-based method_2]](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md),
-  * [[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
+  *[[Attention-based method_1]](https://github.com/baby90522/Spatial-Temporal-Attention-Model),
+  *[[Attention-based method_2]](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md),
+  *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
 
 * Data Analysis:
   * [[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
