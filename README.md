@@ -31,7 +31,7 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
   *[[Attention-based method_2]](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md),
   *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
 
-* NLP
+* NLP:
   *[[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
 
 * Data Analysis:
