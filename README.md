@@ -32,7 +32,7 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
   *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
 
 * NLP
-  * [[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
+  *[[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
 
 * Data Analysis:
   *[[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
