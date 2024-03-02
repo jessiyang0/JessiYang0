@@ -35,7 +35,7 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
   *[[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
 
 * Computer Vision
-  *[[Yolo V8_Car_Object_Detection]]()
+  *[[Yolo V8_Car_Object_Detection]](https://github.com/JessiYang0/Yolo-V8-Real-Time-Car-Object-Detection)
 
 * Data Analysis:
   *[[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
