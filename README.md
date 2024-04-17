@@ -34,6 +34,9 @@ Time-Series Processing, Computer Vision, and Natural Language Processing
 * NLP:
   *[[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
 
+* Reinforcement-Learning
+  *[[Designing game AI with Reinforcement learning]](https://github.com/JessiYang0/Reinforcement-Learning-with-AI-game)
+
 * Computer Vision
   *[[Yolo V8_Car_Object_Detection]](https://github.com/JessiYang0/Yolo-V8-Real-Time-Car-Object-Detection)
 
