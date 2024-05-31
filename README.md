@@ -16,7 +16,7 @@
 
 👩‍⚖️  Web Development
 
-👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NCUT; TSMC RD Engineer 
+👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NYCU; TSMC RD Engineer 
 
 
 
