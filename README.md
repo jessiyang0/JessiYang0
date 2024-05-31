@@ -19,7 +19,6 @@
 👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NYCU; TSMC RD Engineer 
 
 
-
   </td>
 </tr>
 </table>
@@ -41,6 +40,9 @@
 
 * Data Analysis:
   *[[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
+
+* Personal Website:
+  * (https://jessiyang0.github.io/Personal-Website/)
 
 ## **Long intro**
 
