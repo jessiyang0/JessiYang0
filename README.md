@@ -1,6 +1,5 @@
+## Hi there 👋 I'm Jessi (Jie-Si) Yang
 
-
-## **Short intro**
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
@@ -9,48 +8,56 @@
   <td>
   </td>
   <td>
-    
-👩‍⚖️  Time-Series Processing, Forecasting, Analysis
 
-👩‍⚖️  Passionate about MLOps, AWS, Docker, Model Research and Development
-
-👩‍⚖️  Web Development
-
-👩‍⚖️  Past Experience: Research Assistant, Machine Learning, Deep Learning Lab, NYCU; TSMC RD Engineer 
-
+🎓 Master’s student in **Software Development** at the **University of Utah**  
+🔬 Research Assistant: **GPU Debugging Agent**, **LLM Fine-tuning** (LoRA, RAG pipelines)  
+💼 Former **R&D Engineer at TSMC** (Jetson Xavier embedded AI defect detection)  
+📄 Published **2 AI-related journal papers** (Time Series Forecasting, Industry Applications)  
+💻 Interests: Edge AI, Model Compression, Cloud & MLOps, Data Visualization, Full-Stack Development  
 
   </td>
 </tr>
 </table>
 
-## **Project**
-* Time Series Forecasting:
-  *[[Attention-based method_1]](https://github.com/baby90522/Spatial-Temporal-Attention-Model),
-  *[[Attention-based method_2]](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md),
-  *[[Multi-Task method]](https://github.com/baby90522/Multi-Task-Learning-Model)
+---
 
-* NLP:
-  *[[Chatbot with LangChain]](https://github.com/JessiYang0/Natural-language-Q-A-chatbot/blob/main/README.md)
+## 🚀 Projects
 
-* Reinforcement-Learning
-  *[[Designing game AI with Reinforcement learning]](https://github.com/JessiYang0/Reinforcement-Learning-with-AI-game)
+### 🔹 Time Series Forecasting
+- [Spatial-Temporal Attention Model](https://github.com/baby90522/Spatial-Temporal-Attention-Model)
+- [Self-Attention & Convolution Model](https://github.com/baby90522/Self-attention-and-Convolution-Model/blob/main/README.md)
+- [Multi-Task Learning Model](https://github.com/baby90522/Multi-Task-Learning-Model)
 
-* Computer Vision
-  *[[Yolo V8_Car_Object_Detection]](https://github.com/JessiYang0/Yolo-V8-Real-Time-Car-Object-Detection)
+### 🔹 Natural Language Processing
+- [LangChain-based QA Chatbot](https://github.com/JessiYang0/Natural-language-Q-A-chatbot)
 
-* Data Analysis:
-  *[[Data exploration with R]](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
+### 🔹 Reinforcement Learning
+- [AI Agent for Game Environment](https://github.com/JessiYang0/Reinforcement-Learning-with-AI-game)
 
-* Personal Website:
-  *(https://jessiyang0.github.io/Personal-Website/)
+### 🔹 Computer Vision
+- [YOLOv8 Real-Time Car Object Detection](https://github.com/JessiYang0/Yolo-V8-Real-Time-Car-Object-Detection)
 
-## **Long intro**
+### 🔹 Data Analysis
+- [Data Exploration with R](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
 
-📔 During my internship and employment at TSMC, I learned about the AI technologies and methods that can be applied in the industry, such as machine failure prediction and optimization of machine parameters
+### 🔹 Personal Website
+- [Portfolio Website](https://jessiyang0.github.io/Personal-Website/)
 
-📗During my master's program, I authored two papers on AI applications in the industry and participated in industry-academic collaborations, assisting a power company with data visualization and distribution decisions.
+---
 
-🖌️ I applied the R language for feature engineering and data visualization techniques to predict hospital patient readmissions. For the latter, I implemented an attention-based model in Python for text classification.
+## 📝 About Me
 
+📘 I specialize in **AI/ML model development, edge computing, and full-stack engineering**.  
+📕 At TSMC, I deployed **INT8 TensorRT-optimized ViT/YOLO models** on Jetson Xavier, reducing wafer defect detection latency to ~35ms.  
+📙 My master's research includes **GPU kernel trace analysis**, NaN injection debugging, and building a retrieval-augmented agent for PyTorch kernel anomaly detection.  
+📔 My academic projects cover **time-series forecasting** (ProbSparse Attention), **LangChain RAG pipelines**, and **interactive data visualization** for decision-making.  
+🌱 Always learning **MLOps**, **Cloud Deployment**, and **Edge AI Optimization**.
 
-👉🏼 ***Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/jiesi-yang-9218411aa/) to stay updated with my latest AI learning resources.***
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jiesi-yang-9218411aa/)
+- [GitHub](https://github.com/JessiYang0)
+- [Portfolio](https://jessiyang0.github.io/Personal-Website/)
+
