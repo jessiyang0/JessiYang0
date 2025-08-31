@@ -40,8 +40,6 @@
 ### 🔹 Data Analysis
 - [Data Exploration with R](https://github.com/baby90522/Numerical-Data-Forecasting-with-R)
 
-### 🔹 Personal Website
-- [Portfolio Website](https://jessiyang0.github.io/Personal-Website/)
 
 ---
 
@@ -59,5 +57,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jiesi-yang-9218411aa/)
 - [GitHub](https://github.com/JessiYang0)
-- [Portfolio](https://jessiyang0.github.io/Personal-Website/)
+
 
