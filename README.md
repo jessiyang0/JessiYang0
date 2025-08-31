@@ -10,7 +10,8 @@
   <td>
  
 💼 Former **R&D Engineer at TSMC** (Jetson Xavier embedded AI defect detection)  
-🔬 Research Assistant: **GPU Debugging Agent**, **LLM Fine-tuning** (LoRA, RAG pipelines) 
+🔬 Research Assistant: **GPU Debugging Agent**, **LLM Fine-tuning** (LoRA, RAG pipelines)
+
 📄 Published **2 AI-related journal papers** (Time Series Forecasting, Industry Applications)  
 💻 Interests: Edge AI, Model Compression, Cloud & MLOps, Data Visualization, Full-Stack Development  
 
